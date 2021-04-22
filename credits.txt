@@ -1,4 +1,5 @@
-// made by a Brazilian computer student
-// Thats it :)
+**made by a Brazilian computer student**
 
-// btw, this is a tottaly open source (and no copyright) program, so feel free to do whatever you want
+Thats it :)
+
+- btw, this is a tottaly open source (and no copyright) program, so feel free to do whatever you want
